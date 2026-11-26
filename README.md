@@ -4,6 +4,7 @@
 - Rasm yaratish
 - video yaratish
 - Audio yaratish
+  
 **ishlatilgan texnologiyalar**
   1. Python
   2. HTML
